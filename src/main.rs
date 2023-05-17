@@ -1,5 +1,10 @@
-mod types; //Bring the print file
+// mod vars; 
+// mod types; 
+mod strings;
 
 fn main() {
-    types::run();
+    // main::run();
+    // vars::run();
+    // types::run();
+    strings::run();
 }
