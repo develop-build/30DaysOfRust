@@ -34,6 +34,7 @@ impl Person {
     }
 
     // Name to tuple
+    // Self => (this) is js
     fn to_tuple(self) -> (String, String) {
         (self.first_name, self.last_name)
     }
