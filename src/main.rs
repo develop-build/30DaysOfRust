@@ -3,12 +3,14 @@
 // mod strings;
 // mod tuples;
 // mod arrays;
-mod vectors;
+// mod vectors;
+mod conditionals;
 
 fn main() {
     // main::run();
     // vars::run();
     // types::run();
     // tuples::run();
-    vectors::run();
+    // vectors::run();
+    conditionals::run();
 }
